@@ -1,3 +1,4 @@
+https://www.aimlapi.com/
 AI/ML API emerges as a groundbreaking service, streamlining the integration of artificial intelligence and machine learning for developers with a singular, accessible API that connects to over 100 curated AI models, available 24/7.
 
 Built for Developers:
@@ -41,4 +42,5 @@ Fraud Detection in Financial Services: Financial institutions can employ the AI/
 
 Language Translation and Localization Services: Companies looking to expand their global reach can use the AI/ML API for instant language translation and localization of their websites, apps, and documents.
 
-Join Discord Server to Claim a Free Month of Service (Early Bird Deal)
+Join Discord Server to Claim a Free Month of Service (Early Bird Deal) https://discord.gg/ZKwDHt5Y
+ 
